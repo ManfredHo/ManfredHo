@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManfredHo
+- 👋 Hi, I’m @manfred
 - 👀 I’m interested in product management
 - 🌱 I’m currently learning about the wonders of AI/ML
 - 💞️ I’m looking to collaborate on promixity Social Media in SG
